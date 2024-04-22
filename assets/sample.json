@@ -1,0 +1,44 @@
+{
+    "name": "ditateum - gurukoding",
+    "age": 20,
+    "hobby":[
+        "coding",
+        "main game",
+        "membaca"
+    ],
+    "github" : {
+        "username": "siswa",
+        "repositories": 2007,
+        "isGDE": true
+    },
+
+    "articles" : [
+        {
+            "id": 1,
+            "title": "God of war",
+            "subtile": "that is movie"
+        },
+        {
+            "id": 2,
+            "title": "Harvest moon",
+            "subtile": "that is game"
+        },
+        {
+            "id": 3,
+            "title": "God of war",
+            "subtile": "that is hero"
+        }
+    ],
+    "contacts":{
+        "1":{
+            "name": "angela",
+            "contact":"12345"
+        },
+        "2":{
+            "name": "angela",
+            "contact":"12345"
+        }
+    }
+
+    
+}
